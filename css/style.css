@@ -207,13 +207,14 @@ section#contact {
 	font-size: 1.5rem;
 	line-height: 1.5;
 	border-radius: .25rem;
-	color: #fff;
-	background-color: #dba23f;
+	color: #000;
+  background-color: #ffd966;
+	/* background-color: #dba23f; */
 }
 
 
 .custom-btn-danger:hover{
-  	background-color: #996b1c;
+  	background-color: #dba23f;
     color: #fff;
 }
 
