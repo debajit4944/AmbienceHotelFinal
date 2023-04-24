@@ -198,6 +198,39 @@ section#contact {
 .custom-text-grey{
   color: #585858;
 }
+.custom-btn-danger {
+	display: inline-block;
+	font-weight: 400;
+	text-align: center;
+	border: 1px solid transparent;
+	padding: .375rem .75rem;
+	font-size: 1rem;
+	line-height: 1.5;
+	border-radius: .25rem;
+	color: #fff;
+	background-color: #b07f2a;
+}
+
+
+.custom-btn-danger:hover{
+  	background-color: #996b1c;
+    color: #fff;
+}
+
+/* .custom-btn-danger{
+  background-color: #b07f2a; 
+  border: none;
+  color: white;
+  padding: 15px 32px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 16px;
+}
+.custom-btn-danger:hover {
+background-color: #a17528;
+color: white;
+} */
 /* .custom-shadow{
   box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
 } */
